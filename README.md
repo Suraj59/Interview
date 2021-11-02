@@ -14,11 +14,11 @@ If you are comfortable with this process, please go ahead and work on the assign
 
 Steps
 
-Create a private repository on github.
-Add https://github.com/Suraj59
-Start working on the assignment. Now you have 3 days to complete this assignment.
-If you have any doubts and issues please create a issue on github repo.
-If possible please deploy your work and also add proper setup guidelines. Please deploy the front-end using netlify and backend using heroku or similar.
+1. Create a private repository on github.
+2. Add https://github.com/Suraj59
+3. Start working on the assignment. Now you have 3 days to complete this assignment.
+4. If you have any doubts and issues please create a issue on github repo.
+5. If possible please deploy your work and also add proper setup guidelines. Please deploy the front-end using netlify and backend using heroku or similar.
 
 Here is the assignemnt.
 
