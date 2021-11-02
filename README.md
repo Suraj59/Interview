@@ -30,4 +30,4 @@ Use Angular hooks. Usage of class based components is not allowed. Use Typescrip
 
 ALL THE BEST. We are looking forward and excited to hear from you.
 
-No more about Delivery Solutions: https://www.deliverysolutions.co/
+Know more about Delivery Solutions: https://www.deliverysolutions.co/
